@@ -11,11 +11,11 @@ turn your old android phone into remote CCTV with qpython.
 
 now you can start/stop webcam (mjpegstream), record video and take pictures.
 
-## problem solved.
+## Problem solving
 
 - make sure your qpython app has  camera permission.
 - make sure your qpython app excluded from battery saving list.
-- known bug [cant startwebcam](https://stackoverflow.com/questions/14159483/setparameters-failed-when-initializing-android-webcam-with-python-and-sl4a) and [solution](https://github.com/olapaola/olapaola-android-scripting)
+- known bug [cant startwebcam](https://stackoverflow.com/questions/14159483/setparameters-failed-when-initializing-android-webcam-with-python-and-sl4a) and [solution](https://github.com/olapaola/olapaola-android-scripting).
 
 ## Improve
 
